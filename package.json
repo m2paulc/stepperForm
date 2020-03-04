@@ -1,0 +1,14 @@
+{
+  "name": "multistep-form",
+  "version": "1.0.0",
+  "description": "multi-step sign-in form",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass style.scss style.css"
+  },
+  "author": "paul caoile",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
