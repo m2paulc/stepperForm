@@ -9,6 +9,6 @@
   "author": "paul caoile",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.14.1"
   }
 }
